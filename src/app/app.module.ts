@@ -19,4 +19,3 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
-/// this is just a testing. 
